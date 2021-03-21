@@ -25,7 +25,7 @@ SECRET_KEY = '(7*3*s7x&ev1k=v%j+&_sewkor$w2w=kvy!q_^@w-_2(yi-icp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*'] # 이 프로젝트 페이지에 접근할 수 있는 사람 지정
+ALLOWED_HOSTS = ['*']  # 이 프로젝트 페이지에 접근할 수 있는 사람 지정
 
 
 # Application definition
